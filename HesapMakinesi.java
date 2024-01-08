@@ -42,6 +42,8 @@ public class HesapMakinesi {
                 }
                 System.out.println("Sonuc: " + result);
                 break;
+            default:
+                System.out.println("1,2,3,4 rakamlarından birini giriniz.");
         }
 
     }
